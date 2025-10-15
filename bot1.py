@@ -17,7 +17,7 @@ from zoneinfo import ZoneInfo
 
 MOSCOW_TZ = ZoneInfo("Europe/Moscow")
 
-API_TOKEN = "8499251772:AAGj2vQYaCVzau_1bq3Y2Jxc7fwxhOmj9oM"
+API_TOKEN = ""
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
